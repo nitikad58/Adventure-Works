@@ -65,4 +65,4 @@ The Adventure Works Dashboard is an interactive Power BI report that transforms 
 
 ## 6. Screenshot/Demos
 
-![Dashboard Preview].(https://github.com/nitikad58/Adventure-Works/blob/main/Screenshot%20of%20Adventure%20Works.png).
+![Dashboard Preview](https://github.com/nitikad58/Adventure-Works/blob/607faeb91d0bd9895c6f1892e079403d9dd08758/Screenshot%20of%20Adventure%20Works.png)
