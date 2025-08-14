@@ -1,4 +1,5 @@
 # Adventure-Works
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Viz-yellow?logo=powerbi)
 
 ## 1. Adventure Works: Global Sales & Performance Dashboard
 A dynamic Power BI dashboard analyzing revenue, budget variances, and product trends across regions and time periods—designed for data-driven decision-making.
