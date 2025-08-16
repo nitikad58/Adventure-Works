@@ -63,6 +63,6 @@ The Adventure Works Dashboard is an interactive Power BI report that transforms 
       Inventory Optimization: Focus procurement on top-selling products (e.g., Road Bikes in Q2).
       Strategic Growth: Allocate marketing spend to underperforming regions (e.g., APAC).
 
-## 6. Screenshot/Demos
+## 6. Screenshot Preview
 
 ![Dashboard Preview](https://github.com/nitikad58/Adventure-Works/blob/607faeb91d0bd9895c6f1892e079403d9dd08758/Screenshot%20of%20Adventure%20Works.png)
