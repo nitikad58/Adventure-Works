@@ -42,8 +42,8 @@ Adventure Works lacks a unified view of:
         
 ### 5.3 Walkthrough of Key Visuals
 📊 Key Metrics (Cards)
-   * Total Sales: $29M | Budget Variance: -$1.2M (4% under)
-   * Top Category: Bikes (62% of revenue) | Best Region: North America ($12M)
+     * Total Sales: $29M | Budget Variance: -$1.2M (4% under)
+     * Top Category: Bikes (62% of revenue) | Best Region: North America ($12M)
             
 🌍 Sales by Region (Map + Bar Chart)
    * Interactive map color-coded by revenue.
