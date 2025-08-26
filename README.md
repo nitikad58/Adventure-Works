@@ -12,9 +12,13 @@ The Adventure Works Dashboard is an interactive Power BI report that transforms 
 
 ## 3. Tech Stack
 📊 Power BI Desktop: Primary platform for visualization and report design.
+
 🔧 Power Query: Cleaned and reshaped data (e.g., unpivoted budget tables, standardized dates).
+
 🧮 DAX: Measures like Sales Variance %, YTD(Yead-To-Date) Growth, and dynamic rankings.
+
 🔗 Data Modeling: Star schema with relationships between Sales, Products, Territories, and Calendar tables.
+
 📁 File Formats: .pbix (Power BI project) + .png (dashboard previews).
 
 ## 4. Data Source
