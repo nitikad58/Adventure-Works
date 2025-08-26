@@ -11,11 +11,11 @@ The Adventure Works Dashboard is an interactive Power BI report that transforms 
   * How do sales trends vary by region or season?
 
 ## 3. Tech Stack
-  * 📊 Power BI Desktop: Primary platform for visualization and report design.
-  * 🔧 Power Query: Cleaned and reshaped data (e.g., unpivoted budget tables, standardized dates).
-  * 🧮 DAX: Measures like Sales Variance %, YTD(Yead-To-Date) Growth, and dynamic rankings.
-  * 🔗 Data Modeling: Star schema with relationships between Sales, Products, Territories, and Calendar tables.
-  * 📁 File Formats: .pbix (Power BI project) + .png (dashboard previews).
+  📊 Power BI Desktop: Primary platform for visualization and report design.
+  🔧 Power Query: Cleaned and reshaped data (e.g., unpivoted budget tables, standardized dates).
+  🧮 DAX: Measures like Sales Variance %, YTD(Yead-To-Date) Growth, and dynamic rankings.
+  🔗 Data Modeling: Star schema with relationships between Sales, Products, Territories, and Calendar tables.
+  📁 File Formats: .pbix (Power BI project) + .png (dashboard previews).
 
 ## 4. Data Source
 
@@ -41,22 +41,22 @@ Adventure Works lacks a unified view of:
 * Highlight anomalies (e.g., underperforming regions).
         
 ### 5.3 Walkthrough of Key Visuals
-* 📊 Key Metrics (Cards)
+📊 Key Metrics (Cards)
    * Total Sales: $29M | Budget Variance: -$1.2M (4% under)
    * Top Category: Bikes (62% of revenue) | Best Region: North America ($12M)
           
-* 🌍 Sales by Region (Map + Bar Chart)
+🌍 Sales by Region (Map + Bar Chart)
    * Interactive map color-coded by revenue.
    * Bar chart ranks territories (e.g., North America > Europe > Pacific).
           
-* 📈 Monthly Sales vs. Budget (Line + Column Chart)
+📈 Monthly Sales vs. Budget (Line + Column Chart)
   * Columns: Actual sales. Line: Budget targets.
   * Red highlights show months below target.
           
-* 🏆 Top 10 Products & Customers (Tables)
+🏆 Top 10 Products & Customers (Tables)
    * Filter by category (e.g., Mountain Bikes generate 35% of revenue).
           
-* ⏳ Time Intelligence (Slicers)
+⏳ Time Intelligence (Slicers)
    * Compare YTD, QTD(Quarter-To-Date), or custom date ranges.
           
 ### 5.4 Business Impact
