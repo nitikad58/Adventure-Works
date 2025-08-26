@@ -28,18 +28,18 @@ The Adventure Works Dashboard is an interactive Power BI report that transforms 
 
 ## 5. Key Features & Insights
 
-   ### 5.1 Business Problem
+   ## 5.1 Business Problem
       Adventure Works lacks a unified view of:
         Real-time sales vs. budget performance.
         Regional profitability and product trends.
         Seasonal patterns affecting inventory and staffing.
         
-   ### 5.2 Dashboard Goals
+   ## 5.2 Dashboard Goals
        Provide at-a-glance KPIs (revenue, variance, top products).
        Enable drill-down analysis by region, time, or product category.
        Highlight anomalies (e.g., underperforming regions).
         
-   ### 5.3 Walkthrough of Key Visuals
+   ## 5.3 Walkthrough of Key Visuals
       📊 Key Metrics (Cards)
         Total Sales: $29M | Budget Variance: -$1.2M (4% under)
         Top Category: Bikes (62% of revenue) | Best Region: North America ($12M)
@@ -58,7 +58,7 @@ The Adventure Works Dashboard is an interactive Power BI report that transforms 
       ⏳ Time Intelligence (Slicers)
         Compare YTD, QTD, or custom date ranges.
         
-   ### 5.4 Business Impact
+   ## 5.4 Business Impact
       Cost Control: Immediate visibility into budget deviations.
       Inventory Optimization: Focus procurement on top-selling products (e.g., Road Bikes in Q2).
       Strategic Growth: Allocate marketing spend to underperforming regions (e.g., APAC).
