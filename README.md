@@ -41,23 +41,23 @@ Adventure Works lacks a unified view of:
 * Highlight anomalies (e.g., underperforming regions).
         
 ### 5.3 Walkthrough of Key Visuals
-  📊 Key Metrics (Cards)
-     * Total Sales: $29M | Budget Variance: -$1.2M (4% under)
-     * Top Category: Bikes (62% of revenue) | Best Region: North America ($12M)
+📊 Key Metrics (Cards)
+   * Total Sales: $29M | Budget Variance: -$1.2M (4% under)
+   * Top Category: Bikes (62% of revenue) | Best Region: North America ($12M)
             
-  🌍 Sales by Region (Map + Bar Chart)
-     * Interactive map color-coded by revenue.
-     * Bar chart ranks territories (e.g., North America > Europe > Pacific).
+🌍 Sales by Region (Map + Bar Chart)
+   * Interactive map color-coded by revenue.
+   * Bar chart ranks territories (e.g., North America > Europe > Pacific).
             
-  📈 Monthly Sales vs. Budget (Line + Column Chart)
-    * Columns: Actual sales. Line: Budget targets.
-    * Red highlights show months below target.
+📈 Monthly Sales vs. Budget (Line + Column Chart)
+  * Columns: Actual sales. Line: Budget targets.
+  * Red highlights show months below target.
             
-  🏆 Top 10 Products & Customers (Tables)
-     * Filter by category (e.g., Mountain Bikes generate 35% of revenue).
+🏆 Top 10 Products & Customers (Tables)
+   * Filter by category (e.g., Mountain Bikes generate 35% of revenue).
             
-  ⏳ Time Intelligence (Slicers)
-     * Compare YTD, QTD(Quarter-To-Date), or custom date ranges.
+⏳ Time Intelligence (Slicers)
+   * Compare YTD, QTD(Quarter-To-Date), or custom date ranges.
           
 ### 5.4 Business Impact
 * Cost Control: Immediate visibility into budget deviations.
