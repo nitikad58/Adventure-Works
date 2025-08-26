@@ -11,11 +11,11 @@ The Adventure Works Dashboard is an interactive Power BI report that transforms 
   * How do sales trends vary by region or season?
 
 ## 3. Tech Stack
- 📊 Power BI Desktop: Primary platform for visualization and report design.
- 🔧 Power Query: Cleaned and reshaped data (e.g., unpivoted budget tables, standardized dates)
- 🧮 DAX: Measures like Sales Variance %, YTD(Year-To-Date) Growth, and dynamic rankings.
- 🔗 Data Modeling: Star schema with relationships between Sales, Products, Territories, and Calendar tables.
- 📁 File Formats: .pbix (Power BI project) + .png (dashboard previews).
+<p>📊 Power BI Desktop: Primary platform for visualization and report design.<br> 
+ 🔧 Power Query: Cleaned and reshaped data (e.g., unpivoted budget tables, standardized dates).<br>
+ 🧮 DAX: Measures like Sales Variance %, YTD(Year-To-Date) Growth, and dynamic rankings.<br>
+ 🔗 Data Modeling: Star schema with relationships between Sales, Products, Territories, and Calendar tables.<br> 
+ 📁 File Formats: .pbix (Power BI project) + .png (dashboard previews).</p>
 
 ## 4. Data Source
 
