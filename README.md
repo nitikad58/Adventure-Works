@@ -7,15 +7,15 @@ A dynamic Power BI dashboard analyzing revenue, budget variances, and product tr
 The Adventure Works Dashboard is an interactive Power BI report that transforms raw sales data into actionable insights. It compares actual sales against budgets, identifies top-performing products and customers, and uncovers regional trends. Built for sales managers, financial analysts, and executives, this tool answers critical questions like:
 
   * Which products drive the most revenue?
-  * Where are we exceeding or falling short of budget?
+  * Where are we exceeding or falling short of the budget?
   * How do sales trends vary by region or season?
 
 ## 3. Tech Stack
-  📊 Power BI Desktop: Primary platform for visualization and report design.
-  🔧 Power Query: Cleaned and reshaped data (e.g., unpivoted budget tables, standardized dates).
-  🧮 DAX: Measures like Sales Variance %, YTD(Yead-To-Date) Growth, and dynamic rankings.
-  🔗 Data Modeling: Star schema with relationships between Sales, Products, Territories, and Calendar tables.
-  📁 File Formats: .pbix (Power BI project) + .png (dashboard previews).
+ 📊 Power BI Desktop: Primary platform for visualization and report design.
+ 🔧 Power Query: Cleaned and reshaped data (e.g., unpivoted budget tables, standardized dates)
+ 🧮 DAX: Measures like Sales Variance %, YTD(Year-To-Date) Growth, and dynamic rankings.
+ 🔗 Data Modeling: Star schema with relationships between Sales, Products, Territories, and Calendar tables.
+ 📁 File Formats: .pbix (Power BI project) + .png (dashboard previews).
 
 ## 4. Data Source
 
