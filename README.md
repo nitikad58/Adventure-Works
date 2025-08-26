@@ -6,34 +6,34 @@ A dynamic Power BI dashboard analyzing revenue, budget variances, and product tr
 ## 2. Short Description
 The Adventure Works Dashboard is an interactive Power BI report that transforms raw sales data into actionable insights. It compares actual sales against budgets, identifies top-performing products and customers, and uncovers regional trends. Built for sales managers, financial analysts, and executives, this tool answers critical questions like:
 
-  Which products drive the most revenue?
-  Where are we exceeding or falling short of budget?
-  How do sales trends vary by region or season?
+  *Which products drive the most revenue?
+  *Where are we exceeding or falling short of budget?
+  *How do sales trends vary by region or season?
 
 ## 3. Tech Stack
-  📊 Power BI Desktop: Primary platform for visualization and report design.
-  🔧 Power Query: Cleaned and reshaped data (e.g., unpivoted budget tables, standardized dates).
-  🧮 DAX: Measures like Sales Variance %, YTD(Yead-To-Date) Growth, and dynamic rankings.
-  🔗 Data Modeling: Star schema with relationships between Sales, Products, Territories, and Calendar tables.
-  📁 File Formats: .pbix (Power BI project) + .png (dashboard previews).
+  *📊 Power BI Desktop: Primary platform for visualization and report design.
+  *🔧 Power Query: Cleaned and reshaped data (e.g., unpivoted budget tables, standardized dates).
+  *🧮 DAX: Measures like Sales Variance %, YTD(Yead-To-Date) Growth, and dynamic rankings.
+  *🔗 Data Modeling: Star schema with relationships between Sales, Products, Territories, and Calendar tables.
+  *📁 File Formats: .pbix (Power BI project) + .png (dashboard previews).
 
 ## 4. Data Source
 
 Source: Microsoft’s Adventure Works sample database (fictional but realistic retail data).
   
 Datasets:
-  Sales: 60K+ transactions (2016–2017) with revenue, quantities, and order dates.
-  Products: 500+ items with categories, subcategories, and pricing tiers.
-  Budget: Monthly targets by product and region.
-  Calendar: Time intelligence for YoY and MoM comparisons.
+  *Sales: 60K+ transactions (2016–2017) with revenue, quantities, and order dates.
+  *Products: 500+ items with categories, subcategories, and pricing tiers.
+  *Budget: Monthly targets by product and region.
+  *Calendar: Time intelligence for YoY and MoM comparisons.
 
 ## 5. Key Features & Insights
 
-   ### 5.1 Business Problem
-   Adventure Works lacks a unified view of:
-     Real-time sales vs. budget performance.
-     Regional profitability and product trends.
-     Seasonal patterns affecting inventory and staffing.
+### 5.1 Business Problem
+Adventure Works lacks a unified view of:
+*Real-time sales vs. budget performance.
+*Regional profitability and product trends.
+*Seasonal patterns affecting inventory and staffing.
         
    ### 5.2 Dashboard Goals
       Provide at-a-glance KPIs (revenue, variance, top products).
