@@ -59,7 +59,7 @@ Adventure Works lacks a unified view of:
 ⏳ Time Intelligence (Slicers)
    * Compare YTD, QTD(Quarter-To-Date), or custom date ranges.
           
-### 5.4 Business Impact
+### 5.4 Predicted Business Impact
 * Cost Control: Immediate visibility into budget deviations.
 * Inventory Optimization: Focus procurement on top-selling products (e.g., Road Bikes in Q2).
 * Strategic Growth: Allocate marketing spend to underperforming regions (e.g., APAC).
